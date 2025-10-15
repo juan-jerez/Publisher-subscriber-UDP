@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define BROKER_IP "127.0.0.1"
+#define BROKER_IP "191.168.194.201"
 #define BROKER_PORT 5000
 #define BUFFER_SIZE 1024
 
